@@ -1,0 +1,8 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mScalaTestStyle:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mMultiplying 2 * 2 [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should be 4[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mdivide 30/5 [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should be 6[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should throw ArithmiticException if attemeped to divide by 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mAn empty Set[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should have size 0[0m[0m
